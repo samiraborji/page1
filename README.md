@@ -57,7 +57,7 @@ _Et pour complèter le tout, bien entendue, quelques éléments importante, comm
 
 
 
-		![](http://bienvenuechezlydie.b.i.pic.centerblog.net/79704d42.gif)
+		![](http://images.forum-auto.com/mesimages/659979/adiieu.gif)
 
 
 
