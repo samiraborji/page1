@@ -57,7 +57,7 @@ _Et pour complèter le tout, bien entendue, quelques éléments importante, comm
 
 
 
-		![](http://bienvenuechezlydie.centerblog.net/1085-ordinateur-anime)
+		![](http://bienvenuechezlydie.b.i.pic.centerblog.net/79704d42.gif)
 
 
 
