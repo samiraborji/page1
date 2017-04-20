@@ -1,10 +1,10 @@
-                             # __Présentation du Projet:__
+                             #__Présentation du Projet:__
 
 
 #### De quoi a-t-on besoin pour apprendre?
 
 
-##__Introduction__
+## __Introduction__
 
 Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage du métier de **développeur web**.
 
@@ -47,7 +47,7 @@ Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage
 		[MarkDown] (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 		etc		
 		
-##__Conclusion__
+## __Conclusion__
 
 _Un des éléments clé pour l'apprentissage est l'esprit d'équipe sans quoi il sera difficile d'apprendre dans de bonne condition._
 
