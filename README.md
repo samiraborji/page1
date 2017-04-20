@@ -1,5 +1,5 @@
 
-#__Présentation du Projet:__
+# __Présentation du Projet:__
 
 
 #### De quoi a-t-on besoin pour apprendre?
@@ -43,10 +43,10 @@ Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage
 		>> ![Formateur](/home/user/Downloads/nad.png) <br/>
 		>> ![Formatrice]() <br/>
 	* Références: <br/>
-		>> ![Google](https://www.google.be) <br/>
-		>> ![Git](https://github.com/) <br/>
-		>> ![MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) <br/>
-		>> etc <br/>		
+		>> [Google](https://www.google.be) <br/>
+		>> [Git](https://github.com/) <br/>
+		>> [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) <br/>
+		>> Etc <br/>		
 		
 ## __Conclusion__
 
