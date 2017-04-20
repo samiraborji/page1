@@ -40,7 +40,7 @@ Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage
 4. __Source d'information:__
 
 	* Eric & Emilie: <br/>
-		>> ![Formateur](/home/user/Downloads/nad.png) <br/>
+		>> ![Formateur](https://github.com/nadiabena/Exercice/blob/master/nad.png) <br/>
 		>> ![Formatrice]() <br/>
 	* Références: <br/>
 		>> [Google](https://www.google.be) <br/>
