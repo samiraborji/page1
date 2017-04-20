@@ -1,4 +1,5 @@
-                             #__Présentation du Projet:__
+
+#__Présentation du Projet:__
 
 
 #### De quoi a-t-on besoin pour apprendre?
@@ -38,14 +39,14 @@ Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage
 
 4. __Source d'information:__
 
-	* Eric & Emilie:
-		![Formateur] (/home/user/Downloads/nad.png)
-		![Formatrice] ()
-	* Références:
-		[Google] (https://www.google.be)
-		[Git] (https://github.com/)
-		[MarkDown] (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-		etc		
+	* Eric & Emilie: <br/>
+		>> ![Formateur](/home/user/Downloads/nad.png) <br/>
+		>> ![Formatrice]() <br/>
+	* Références: <br/>
+		>> ![Google](https://www.google.be) <br/>
+		>> ![Git](https://github.com/) <br/>
+		>> ![MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) <br/>
+		>> etc <br/>		
 		
 ## __Conclusion__
 
@@ -55,9 +56,8 @@ _Un des éléments clé pour l'apprentissage est l'esprit d'équipe sans quoi il
 
 _Et pour complèter le tout, bien entendue, quelques éléments importante, comme l'esprit d'équipe, l'entreaide, **l'écoute** de l'autre, etc._
 
+![](http://images.forum-auto.com/mesimages/659979/adiieu.gif)
 
-
-		![](http://images.forum-auto.com/mesimages/659979/adiieu.gif)
 
 
 
